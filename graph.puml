@@ -1,0 +1,4 @@
+@startuml
+skinparam defaultFontName Courier
+"[commit]\nabc123" --> "[tree]\nabc234"
+@enduml
